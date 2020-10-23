@@ -9,4 +9,4 @@ I created this application as a fun personal project
 Requirements:
 *To use the player you must install the pygame library
 
-Install via command line: sudo pip3 install pygame
+Install pygame via command line: sudo pip3 install pygame
