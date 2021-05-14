@@ -7,6 +7,6 @@ Purpose:
 I created this application as a fun personal project
 
 Requirements:
-*To use the player you must install the pygame library
+*To use the player you must install the pygame module
 
 Install pygame via command line: pip3 install pygame
