@@ -5,10 +5,6 @@ from tkinter import ttk
 import pygame 
 from pygame import mixer
 
-import time
-import os
-import random 
-
 mixer.init()
 
 root = tk.Tk() 
